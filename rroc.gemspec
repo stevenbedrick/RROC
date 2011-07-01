@@ -1,4 +1,4 @@
-Gem::Specification do |s|
+Gem::Specification.new do |s|
   s.name = "rroc"
   s.version = "0.1"
   s.date = "2011-06-30"
