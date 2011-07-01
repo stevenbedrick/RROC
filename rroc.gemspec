@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "rroc"
-  s.version = "0.1"
+  s.version = "0.1.1"
   s.date = "2011-06-30"
   s.summary = "Dead-simple ROC analysis in Ruby."
   s.authors = ["Steven Bedrick"]
