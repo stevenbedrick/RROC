@@ -3,7 +3,7 @@ RROC: Dead-simple ROC analysis in Ruby
 
 This library provides methods for Reciever Operating Characteristic (ROC) calculation based on an algorithm copied from the [ML-Mathematica](http://www.bioinf.jku.at/software/ML-Math/) set of machine learning demonstrations, ported by Steven Bedrick ([steve@bedrick.org](mailto:steve@bedrick.org)). Any bugs are mine and not the original authors'. For an excellent overview of ROC analysis, check out:
 
-Fawcett, T. ["An introduction to ROC analysis"](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters 27 (2006) 861-874
+Fawcett, T. ["An introduction to ROC analysis"](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters 27 (2006) 861-874 ([google scholar](https://scholar.google.com/scholar?cluster=3821439096677228953&hl=en&as_sdt=0,39) for non-Elsevier access)
 
 Installation
 --------
